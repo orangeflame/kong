@@ -2,3 +2,8 @@ language: node_js
 node_js:
   -  "iojs"
   -  "7"
+deploy:
+  provider: s3
+  access_key_id: "AKIAIO6AIGXDGOFBCGPA"
+  secrest_acess_key: "CX3VaG09Zk24cwju1NKi7RGviVhiLUbVWn/Lvwwx"
+  bucket: "les3"
