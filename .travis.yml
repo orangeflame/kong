@@ -9,4 +9,4 @@ deploy:
   access_key_id: "AKIAIO6AIGXDGOFBCGPA"
   secret_access_key: "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"
   bucket: "les3"
-  local_dir: build/
+  local_dir: build
