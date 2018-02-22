@@ -10,3 +10,4 @@ deploy:
   secret_access_key: "CX3VaG09Zk24cwju1NKi7RGviVhiLUbVWn/Lvwwx"
   bucket: "les3"
   local_dir: build
+  skip_cleanup: true
